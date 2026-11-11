@@ -1,0 +1,12 @@
+[STUDENTS]
+C253020|Md. Muntasir Mahmud|CSE|AI Coding Assistants & Beginner Programmers|2|3.806
+
+[FACULTIES]
+ABCD|Jamil-As-Ad|CSE|Lecturer|Competitive Programming
+
+[PROJECTS]
+EFG|Cybersecurity Awareness Among CSE Students|C253003|ABCD|Completed|500000
+CSE-122101|AI & ML|C253041|8232|ACTIVE|50000
+
+[PUBLICATIONS]
+HIJ|AI-Assisted Programming: Effects on Learning and Problem-Solving Skills of Undergraduate CSE Students|IEEE Access|2026
